@@ -15,9 +15,7 @@
         <activity
             android:name=".CounterSquareActivity"
             android:exported="false" />
-        <activity
-            android:name=".as"
-            android:exported="false" />
+
         <activity
             android:name=".ConfigurationCounterActivity"
             android:exported="true">
